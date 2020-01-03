@@ -26,6 +26,6 @@ docker-compose up -d
 Sua stack LAMP está pronta
 
 ## Uso
-docker exec atfb-server [COMANDO]
+docker exec atfb-server [COMANDO] 
 docker exec atfb-server -it [COMANDO] //caso o comando precise de interação
 
